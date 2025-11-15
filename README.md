@@ -64,3 +64,10 @@ Al aumentar el número de tópicos (*k*), surgieron también otros como:
 
 **Representación de baja dimensión de cada uno de los discursos mañaneros correspondientes a su tópico**
 ![](bd_2.png)
+
+Representación en baja dimensión mediante tres métodos distintos con la factorización aplicada.
+En esta ocasión podemos observar claramente que existen grupos definidos en la representaci
+ón de baja dimensión, podemos asociar cada color de grupo con su correspondiente
+tópico de la siguiente manera, Violeta oscuro: México, Violeta claro: Programas de apoyo del
+gobierno, Azul verdoso: Tren maya, Verde azulado: Energía eléctrica, Verde: Pandemia, Verde
+amarillento: Vacunas, Amarillo verdoso: Migración, Amarillo: Salud.
