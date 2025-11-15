@@ -50,3 +50,23 @@ Al aumentar el número de tópicos (*k*), surgieron también otros como:
 
 🔗 **Repositorio con los discursos:**  
 [Conferencias Matutinas AMLO - GitHub](https://github.com/NOSTRODATA/conferencias_matutinas_amlo)
+
+**Distintos tópicos de acuerdo al modelo**
+
+**Tópico 1 - México**
+![](T1.png)
+
+**Tópico 2  - Programas de apoyo del gobierno**
+![](T2.png)
+
+**Tópico 3 - Tren Maya**
+![](T3.png)
+
+**Tópico 4 - Energía electrica**
+![](T4.png)
+
+**Tópico 5 - Pandemia**
+![](T5.png)
+
+**Representación de baja dimensión de cada uno de los discursos mañaneros correspondientes a su tópico**
+![](bd_2.png)
